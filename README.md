@@ -1,4 +1,4 @@
-![](readme_media/banner_gif.png)
+![](readme_media/banner_gif.gif)
 ![badge](https://github.com/PythonCloudFrameworks/bunny-storm/workflows/Bunny%20Storm%20CI/CD/badge.svg)
 [![PyPI version fury.io](https://badge.fury.io/py/bunny-storm.svg)](https://pypi.python.org/pypi/bunny-storm/)
 [![codecov](https://codecov.io/gh/PythonCloudFrameworks/bunny-storm/branch/master/graph/badge.svg?token=1HWGBGCV0G)](https://codecov.io/gh/PythonCloudFrameworks/bunny-storm)
